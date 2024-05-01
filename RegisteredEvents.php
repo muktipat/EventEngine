@@ -12,7 +12,7 @@ $result = mysqli_query($conn, "SELECT * FROM registered r,staff_coordinator s ,e
 
 <div class = "content">
             <div class = "container">
-            <h1> Registered Events</h1>
+            <h1> Registered  Events</h1>
              <?php
 if (mysqli_num_rows($result) > 0) {
 ?> 
