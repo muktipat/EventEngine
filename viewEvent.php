@@ -15,6 +15,7 @@ $result = mysqli_query($conn,"SELECT * FROM events,event_info ef,student_coordin
         
     </head>
 
+        
     <body>
    
     
